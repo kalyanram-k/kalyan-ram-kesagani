@@ -73,41 +73,37 @@
 
 <div align="center">
 
-### 🧩 Problem-Solving Journey
+### 🧩 My Problem-Solving Journey
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+<a href="https://leetcode.com/u/k_kalyan_ram/">
+  <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+</a>
 
-<!-- Replace YOUR_LEETCODE_USERNAME with your actual LeetCode username. -->
+<br/><br/>
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Statistics and Activity Heatmap"/>
+<img src="https://leetcard.jacoblin.cool/k_kalyan_ram?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Statistics and Activity Heatmap"/>
 
 </div>
-
-This section displays your LeetCode statistics and activity heatmap through an external card service. Replace `YOUR_LEETCODE_USERNAME` in the image URL with your actual LeetCode username.
-
----
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kalyan-ram-kesagani&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+<img src="https://github-stats-extended.vercel.app/api?username=kalyan-ram-kesagani&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan-ram-kesagani&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=kalyan-ram-kesagani&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
 </div>
-
----
 
 ## 📈 GitHub Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalyan-ram-kesagani&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity"/>
+[![GitHub Contributions](https://img.shields.io/badge/View-GitHub%20Contributions-2ea44f?style=for-the-badge&logo=github)](https://github.com/kalyan-ram-kesagani?tab=overview)
+
+*Consistently learning, building, and contributing.*
 
 </div>
-
----
 
 ## 🎯 Current Learning Goals
 
