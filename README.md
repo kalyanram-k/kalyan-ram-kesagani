@@ -1,127 +1,147 @@
-\<div align="center">
+<div align="center">
 
 # 👋 Hi, I'm Kalyan Ram Kesagani
 
-### AI Engineer & Automation Developer in the Making
+### 🤖 Aspiring AI Engineer | AI Automation Developer
 
-**Building intelligent applications · Automating workflows · Engineering reliable systems**
+**Building Intelligent Applications • Automating Workflows • Exploring Cloud Technologies**
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalyan-ram-kesagani)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![AI](https://img.shields.io/badge/AI%20%26%20Automation-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/kalyan-ram-kesagani)
 
-\
-
-
-\</div>
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a B.Tech student passionate about building practical software applications and exploring how AI can automate real-world tasks.
+- 🎓 B.Tech student at Swarnandhra College of Engineering and Technology.
+- 🤖 Primarily focused on learning AI Engineering and AI Automation.
+- 🐍 Developing my skills in Python and backend development.
+- ⚡ Interested in LLMs, AI agents, intelligent applications, and workflow automation.
+- ☁️ Exploring Cloud Computing, Linux, and DevOps.
+- 🚀 I enjoy turning ideas into practical software projects.
 
-My primary goal is to become an **AI Engineer / AI Automation Developer**, while developing strong foundations in Python backend engineering, cloud computing, and DevOps.
+> My goal is to build intelligent systems that solve real-world problems through AI, automation, and software engineering.
 
-- 🤖 Exploring AI applications, LLMs, AI agents, and workflow automation
-- 🐍 Developing my Python and backend engineering skills
-- ⚙️ Interested in APIs, databases, and software architecture
-- ☁️ Learning cloud technologies and DevOps practices
-- 🚀 Building projects to turn ideas into useful applications
-
-> My approach: Learn by building, improve through experimentation, and document what I learn.
-
-## 🧠 Areas of Interest
-
-| Area                   | Focus                                                  |
-| ---------------------- | ------------------------------------------------------ |
-| 🤖 AI Engineering      | LLM applications, AI agents, intelligent systems       |
-| ⚡ AI Automation        | Workflow automation, tool integration, task automation |
-| 🐍 Backend Development | Python, FastAPI, REST APIs                             |
-| ☁️ Cloud & DevOps      | Linux, Docker, CI/CD, cloud deployment                 |
-| 🗄️ Data & Databases   | SQL, PostgreSQL, database integration                  |
+---
 
 ## 🛠️ Tech Stack
 
-**Programming Languages**
+### 💻 Programming Languages
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js" alt="Programming languages"/>
+</p>
 
-\
+### 🤖 AI & Automation
 
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-6C63FF?style=for-the-badge" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/Workflow%20Automation-00897B?style=for-the-badge" alt="Workflow Automation"/>
+  <img src="https://img.shields.io/badge/LLMs-Learning-555555?style=for-the-badge" alt="LLMs"/>
+</p>
 
-**Backend & APIs**
+### ⚙️ Backend Development
 
-\
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" alt="Backend technologies"/>
+</p>
 
+### 🌐 Frontend Development
 
-**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite" alt="Frontend technologies"/>
+</p>
 
+### 🗄️ Databases
 
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase" alt="Database technologies"/>
+</p>
 
-\
+### ☁️ Cloud & DevOps
 
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode" alt="Cloud and development tools"/>
+</p>
 
-**Databases & Developer Tools**
-
-
-
-
-\
-
-
-**Currently Exploring**
-
-
-
-\
-
+---
 
 ## 🚀 Featured Projects
 
 ### 🌱 GrowthOS — Personal Development Dashboard
 
-A student-focused platform designed to organize professional growth and career development.
+A student-focused platform designed to organize skills, projects, goals, certifications, and professional development.
 
-**Focus:** Skills, projects, goals, certifications, and academic progress.
+**Focus Areas**
+- 📚 Personal and academic development
+- 🎯 Goal and project tracking
+- 💻 Skills and certification management
 
 **Technologies:** React, FastAPI, SQLAlchemy, and database integration.
 
 ### 📈 Aegis Trader — Trading Analysis Platform
 
-A trading-focused application exploring account monitoring, trade analytics, risk management, and trading journals.
+A trading-focused application designed to bring account monitoring, trading analytics, risk management, and journaling into one interface.
 
-**Focus:** Trading dashboards, data analysis, strategy management, and MT5 integration.
+**Focus Areas**
+- 📊 Trading dashboards and analytics
+- 🛡️ Risk management
+- 📝 Trading journals and strategy management
+- 🔌 MetaTrader 5 integration
 
-**Technologies:** React, TypeScript, FastAPI, PostgreSQL/Supabase, and MetaTrader 5 integration.
+**Technologies:** React, TypeScript, FastAPI, PostgreSQL/Supabase.
 
-*Project descriptions summarize their intended scope. Visit the repositories to review implementation details and current status.*
+*Project descriptions reflect their intended scope. See the repositories for implementation details and current status.*
+
+---
 
 ## 📊 GitHub Statistics
 
-\<div align="center">
+<div align="center">
 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kalyan-ram-kesagani&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
 
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan-ram-kesagani&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
+</div>
 
+---
 
-\</div>
+## 📈 Contribution Activity
 
-## 🎯 My Learning Roadmap
+<div align="center">
 
-- [ ] Strengthen Python programming and problem-solving
-- [ ] Learn LLM APIs and prompt engineering
-- [ ] Build AI-powered applications
-- [ ] Explore AI agents and tool calling
-- [ ] Develop automated workflows
-- [ ] Learn Linux, Docker, and CI/CD
-- [ ] Deploy backend applications to the cloud
-- [ ] Build and document end-to-end AI projects
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalyan-ram-kesagani&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity"/>
 
-## 🤝 Let's Connect
+</div>
 
-I'm interested in learning, building projects, and exploring opportunities in AI engineering and software development.
+---
 
-\<div align="center">
+## 🎯 Current Learning Goals
 
-**BUILD · AUTOMATE · LEARN · IMPROVE**
+- [ ] Strengthen Python programming and problem-solving.
+- [ ] Learn LLM APIs and prompt engineering.
+- [ ] Build practical AI-powered applications.
+- [ ] Explore AI agents and tool calling.
+- [ ] Develop AI workflow automation systems.
+- [ ] Improve backend development with FastAPI.
+- [ ] Learn Linux, Docker, and CI/CD.
+- [ ] Deploy applications to cloud platforms.
 
-⭐ Thanks for visiting my GitHub profile!
+---
 
-\</div>
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/kalyan-ram-kesagani)
+
+**BUILD • AUTOMATE • LEARN • IMPROVE**
+
+⭐ Thanks for visiting my profile!
+
+</div>
