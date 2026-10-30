@@ -4,7 +4,7 @@
 
 ### 🤖 Aspiring AI Engineer | AI Automation Developer
 
-**Building Intelligent Applications • Automating Workflows • Exploring Cloud Technologies**
+**Building Intelligent Applications · Automating Workflows · Exploring Cloud Technologies**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalyan-ram-kesagani)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -17,11 +17,11 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech student at Swarnandhra College of Engineering and Technology.
-- 🤖 Primarily focused on learning AI Engineering and AI Automation.
-- 🐍 Developing my skills in Python and backend development.
-- ⚡ Interested in LLMs, AI agents, intelligent applications, and workflow automation.
+- 🤖 Primarily focused on AI Engineering and AI Automation.
+- 🐍 Developing my Python and backend development skills.
+- ⚡ Interested in LLMs, AI agents, and intelligent automation.
 - ☁️ Exploring Cloud Computing, Linux, and DevOps.
-- 🚀 I enjoy turning ideas into practical software projects.
+- 🧩 Improving my problem-solving and data structures skills.
 
 > My goal is to build intelligent systems that solve real-world problems through AI, automation, and software engineering.
 
@@ -39,9 +39,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-6C63FF?style=for-the-badge" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/Workflow%20Automation-00897B?style=for-the-badge" alt="Workflow Automation"/>
-  <img src="https://img.shields.io/badge/LLMs-Learning-555555?style=for-the-badge" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-Learning-6C63FF?style=for-the-badge" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/Workflow%20Automation-Learning-00897B?style=for-the-badge" alt="Workflow Automation"/>
 </p>
 
 ### ⚙️ Backend Development
@@ -70,32 +69,21 @@
 
 ---
 
-## 🚀 Featured Projects
+## 💻 LeetCode Performance
 
-### 🌱 GrowthOS — Personal Development Dashboard
+<div align="center">
 
-A student-focused platform designed to organize skills, projects, goals, certifications, and professional development.
+### 🧩 Problem-Solving Journey
 
-**Focus Areas**
-- 📚 Personal and academic development
-- 🎯 Goal and project tracking
-- 💻 Skills and certification management
+[![LeetCode](https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 
-**Technologies:** React, FastAPI, SQLAlchemy, and database integration.
+<!-- Replace YOUR_LEETCODE_USERNAME with your actual LeetCode username. -->
 
-### 📈 Aegis Trader — Trading Analysis Platform
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Statistics and Activity Heatmap"/>
 
-A trading-focused application designed to bring account monitoring, trading analytics, risk management, and journaling into one interface.
+</div>
 
-**Focus Areas**
-- 📊 Trading dashboards and analytics
-- 🛡️ Risk management
-- 📝 Trading journals and strategy management
-- 🔌 MetaTrader 5 integration
-
-**Technologies:** React, TypeScript, FastAPI, PostgreSQL/Supabase.
-
-*Project descriptions reflect their intended scope. See the repositories for implementation details and current status.*
+This section displays your LeetCode statistics and activity heatmap through an external card service. Replace `YOUR_LEETCODE_USERNAME` in the image URL with your actual LeetCode username.
 
 ---
 
@@ -111,7 +99,7 @@ A trading-focused application designed to bring account monitoring, trading anal
 
 ---
 
-## 📈 Contribution Activity
+## 📈 GitHub Contribution Activity
 
 <div align="center">
 
@@ -131,6 +119,7 @@ A trading-focused application designed to bring account monitoring, trading anal
 - [ ] Improve backend development with FastAPI.
 - [ ] Learn Linux, Docker, and CI/CD.
 - [ ] Deploy applications to cloud platforms.
+- [ ] Practice Data Structures and Algorithms.
 
 ---
 
@@ -140,7 +129,7 @@ A trading-focused application designed to bring account monitoring, trading anal
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/kalyan-ram-kesagani)
 
-**BUILD • AUTOMATE • LEARN • IMPROVE**
+**BUILD · AUTOMATE · LEARN · IMPROVE**
 
 ⭐ Thanks for visiting my profile!
 
